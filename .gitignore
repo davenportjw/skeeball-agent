@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# uv
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.uv/
+uv.lock
